@@ -23,29 +23,55 @@ const Education = () => (
             <div className="ct" id="t4">
                <div className="ct" id="t5">
                 <ul className="hover-target page-ul" id="menu">
-                  <a href="#t1"><li className="icon fa fa-university" id="one"></li></a>
-                  <a href="#t2"><li className="icon fas fa-city" id="two"></li></a>
-                  <a href="#t3"><li className="icon fas fa-graduation-cap" id="three"></li></a>
-                  <a href="#t4"><li className="icon fas fa-keyboard" id="four"></li></a>
+                  <a href="#t1"><li className="icon fa fa-graduation-cap" id="one"></li></a>
+                  <a href="#t2"><li className="icon fas fa-university" id="two"></li></a>
+                  <a href="#t3"><li className="icon fas fa-user-graduate" id="three"></li></a>
+                  <a href="#t4"><li className="icon fas fa-laptop-code" id="four"></li></a>
                 </ul>
                 <div className="page" id="p1">
-                  <div className="page-content">
-                    <section className="icon fa fa-university"><span className="title">Education</span><span className="hint">Hello</span></section>
+                  <div className="page-content-top">
+                    <h1>Education</h1>
+                    <div className="page-body-top">
+                      <section className="icon fas fa-arrow-circle-left"></section>
+                      <p>You can learn about my education by using the icons on the right.</p>
+                    </div>
                   </div>
                 </div>
                 <div className="page" id="p2">
-                  <section className="icon fas fa-city"><span className="title">Pop'n'Drop</span></section>
+                  <div className="page-content">
+                    <h1>Loyola University Chicago</h1>
+                    <div className="page-body">
+                      <img className="page-image" src="../static/images/loyola.png" />
+                      <div className="page-links">
+                        <a href="http://popndrop.herokuapp.com/"><i className="github-link fab fa-chrome"></i></a>
+                      </div>
+                      <p>Loyoal University Chicago.</p>
+                    </div>
+                  </div>
                 </div>
                 <div className="page" id="p3">
-                  <section className="icon fas fa-graduation-cap"><span className="title">Lavender</span></section>
+                  <div className="page-content">
+                    <h1>The University of Texas at Austin</h1>
+                    <div className="page-body">
+                      <img className="page-image" src="../static/images/mccombs.png" />
+                      <div className="page-links">
+                        <a href="https://lvndr.herokuapp.com/"><i className="github-link fab fa-chrome"></i></a>
+                      </div>
+                      <p>McCombs School of Business.</p>
+                    </div>
+                  </div>
                 </div>
                 <div className="page" id="p4">
-                  <section className="icon fas fa-keyboard">
-                    <span className="title">Llama Trader</span>
-                    <p className="hint">
-
-                    </p>
-                  </section>
+                  <div className="page-content">
+                    <h1>Le Wagon</h1>
+                    <div className="page-body">
+                      <img className="page-image" src="../static/images/le-wagon.png" />
+                      <div className="page-links">
+                        <a href="llama-trader.herokuapp.com"><i className="github-link fab fa-chrome"></i></a>
+                      </div>
+                      <p>Le Wagon.</p>
+                    </div>
+                  </div>
                 </div>
               </div>
             </div>
@@ -53,7 +79,6 @@ const Education = () => (
         </div>
       </div>
     </div>
-
 
     <Footer />
 

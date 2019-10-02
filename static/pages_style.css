@@ -592,12 +592,110 @@ a {
   text-decoration: line-through;
 }
 
-.page-content {
+.page-content-top {
   position: absolute;
   right: 1%;
   width: 90%;
   height: 80%;
   bottom: 5%;
+}
+
+.page-content-top h1 {
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  right: 10%;
+  left: 0;
+}
+
+.page-content {
+  position: absolute;
+  right: 1%;
+  width: 100%;
+  height: 80%;
+  bottom: 5%;
+}
+
+.page-content h1 {
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  right: 0;
+  left: 0;
+}
+
+.page-body-top {
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  height: 80%;
+  width: 90%;
+  display: flex;
+}
+
+.page-body-top p {
+  padding: 5%;
+}
+
+.page-body {
+  position: absolute;
+  bottom: 5%;
+  left: 0;
+  height: 80%;
+  width: 100%;
+  text-align: -webkit-center;
+}
+
+.page-image {
+  width: 40%;
+}
+
+.page-links {
+  display: flex;
+  justify-content: center;
+}
+
+.page-links a {
+  font-size: 48px;
+  text-decoration: none;
+  color: #fff;
+}
+
+.github-link {
+  background: 0!important;
+  color: #fff;
+}
+
+.github-link:hover {
+  color: #000000;
+  animation: shake 0.82s cubic-bezier(.36,.07,.19,.97) both;
+  transform: translate3d(0, 0, 0);
+  backface-visibility: hidden;
+  perspective: 1000px;
+}
+
+@keyframes shake {
+  10%, 90% {
+    transform: translate3d(0, -1px, 0);
+  }
+
+  20%, 80% {
+    transform: translate3d(0, 2px, 0);
+  }
+
+  30%, 50%, 70% {
+    transform: translate3d(0, -4px, 0);
+  }
+
+  40%, 60% {
+    transform: translate3d(0, 4px, 0);
+  }
+}
+
+.page-body p {
+  font-size: 1em;
+  width: 80%;
+  font-weight: 600;
 }
 
 .page .icon {
@@ -802,8 +900,9 @@ body.light #p1{
   background-size: 40px 40px;
 }
 
-body.light .page-content {
+body.light .page-content-top {
   background-color: #fff;
+  color: #171717;
 }
 
 body.light #p1 .icon {
@@ -889,4 +988,10 @@ body.light .contact-btn {
 body.light .hidden-stack span {
   background-color: #fff;
   color: #51494C;
+}
+
+@media screen and (max-width: 1024px) {
+  .page-image {
+    width: 100%;
+  }
 }

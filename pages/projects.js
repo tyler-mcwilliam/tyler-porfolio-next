@@ -71,7 +71,7 @@ const Projects = () => (
                     <div className="page-body">
                       <img className="page-image" src="../static/images/llama-trader.png" />
                       <div className="page-links">
-                        <a href="llama-trader.herokuapp.com"><i className="github-link fab fa-chrome"></i></a>
+                        <a href="https://llama-trader.herokuapp.com"><i className="github-link fab fa-chrome"></i></a>
                         <a href="https://github.com/tyler-mcwilliam/alpaca-front-end-react"><i className="github-link fab fa-github"></i></a>
                       </div>
                       <p>Llama Trader is a front end interface allowing users to quickly access their Alpaca trading account and make trades with the hassle of using an API.</p>

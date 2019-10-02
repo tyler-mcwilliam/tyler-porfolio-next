@@ -10,7 +10,6 @@ body{
   font-size: 15px;
   line-height: 1.7;
   color: #c4c3ca;
-  background-color: #1f2029;
   background-color: #171717;
   overflow-x: hidden;
   -webkit-transition: all 300ms linear;
@@ -503,7 +502,7 @@ body.nav-active .nav__list-item:nth-child(10) {
 .headline{
   z-index: 10;
   position: absolute;
-  top: 15%;
+  top: 30%;
   width: 100%;
   margin: 0 auto;
   text-align: center;
@@ -797,4 +796,15 @@ social-icons {
 }
 .fa-github:hover {
     background-color: #5a32a3;
+}
+
+
+@media screen and (max-width: 1024px) {
+  .console-container {
+    font-size: 1.2em;
+  }
+  .hidden-stack {
+    padding-left: 0;
+    text-align: center;
+  }
 }

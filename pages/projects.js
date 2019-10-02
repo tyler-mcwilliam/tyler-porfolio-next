@@ -30,18 +30,18 @@ const Projects = () => (
                 </ul>
                 <div className="page" id="p1">
                   <div className="page-content">
-                    <section className="icon fa fa-home"><span className="title">Projects</span><span className="hint">Hello</span></section>
+                    <section className="icon fa fa-home"><span className="title">Experience</span><span className="hint">Hello</span></section>
                   </div>
                 </div>
                 <div className="page" id="p2">
-                  <section className="icon fas fa-toilet"><span className="title">Pop'n'Drop</span></section>
+                  <section className="icon fas fa-toilet"><span className="title">Toho Technology</span></section>
                 </div>
                 <div className="page" id="p3">
-                  <section className="icon fas fa-comments-dollar"><span className="title">Lavender</span></section>
+                  <section className="icon fas fa-comments-dollar"><span className="title">Boreas Technologies</span></section>
                 </div>
                 <div className="page" id="p4">
                   <section className="icon fas fa-horse">
-                    <span className="title">Llama Trader</span>
+                    <span className="title">Day Trader</span>
                     <p className="hint">
 
                     </p>

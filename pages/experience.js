@@ -23,25 +23,25 @@ const Experience = () => (
             <div className="ct" id="t4">
                <div className="ct" id="t5">
                 <ul className="hover-target page-ul" id="menu">
-                  <a href="#t1"><li className="icon fa fa-home" id="one"></li></a>
-                  <a href="#t2"><li className="icon fas fa-toilet" id="two"></li></a>
-                  <a href="#t3"><li className="icon fas fa-comments-dollar" id="three"></li></a>
-                  <a href="#t4"><li className="icon fas fa-horse" id="four"></li></a>
+                  <a href="#t1"><li className="icon fa fa-handshake" id="one"></li></a>
+                  <a href="#t2"><li className="icon fas fa-microchip" id="two"></li></a>
+                  <a href="#t3"><li className="icon fas fa-memory" id="three"></li></a>
+                  <a href="#t4"><li className="icon fas fa-sim-card" id="four"></li></a>
                 </ul>
                 <div className="page" id="p1">
                   <div className="page-content">
-                    <section className="icon fa fa-home"><span className="title">Projects</span><span className="hint">Hello</span></section>
+                    <section className="icon fa fa-handshake"><span className="title">Experience</span><span className="hint">Hello</span></section>
                   </div>
                 </div>
                 <div className="page" id="p2">
-                  <section className="icon fas fa-toilet"><span className="title">Pop'n'Drop</span></section>
+                  <section className="icon fas fa-microchip"><span className="title">Toho Technology</span></section>
                 </div>
                 <div className="page" id="p3">
-                  <section className="icon fas fa-comments-dollar"><span className="title">Lavender</span></section>
+                  <section className="icon fas fa-memory"><span className="title">Boreas Technologies</span></section>
                 </div>
                 <div className="page" id="p4">
-                  <section className="icon fas fa-horse">
-                    <span className="title">Llama Trader</span>
+                  <section className="icon fas fa-sim-card">
+                    <span className="title">Day Trader</span>
                     <p className="hint">
 
                     </p>

@@ -23,24 +23,24 @@ const Education = () => (
             <div className="ct" id="t4">
                <div className="ct" id="t5">
                 <ul className="hover-target page-ul" id="menu">
-                  <a href="#t1"><li className="icon fa fa-home" id="one"></li></a>
-                  <a href="#t2"><li className="icon fas fa-toilet" id="two"></li></a>
-                  <a href="#t3"><li className="icon fas fa-comments-dollar" id="three"></li></a>
-                  <a href="#t4"><li className="icon fas fa-horse" id="four"></li></a>
+                  <a href="#t1"><li className="icon fa fa-university" id="one"></li></a>
+                  <a href="#t2"><li className="icon fas fa-city" id="two"></li></a>
+                  <a href="#t3"><li className="icon fas fa-graduation-cap" id="three"></li></a>
+                  <a href="#t4"><li className="icon fas fa-keyboard" id="four"></li></a>
                 </ul>
                 <div className="page" id="p1">
                   <div className="page-content">
-                    <section className="icon fa fa-home"><span className="title">Projects</span><span className="hint">Hello</span></section>
+                    <section className="icon fa fa-university"><span className="title">Education</span><span className="hint">Hello</span></section>
                   </div>
                 </div>
                 <div className="page" id="p2">
-                  <section className="icon fas fa-toilet"><span className="title">Pop'n'Drop</span></section>
+                  <section className="icon fas fa-city"><span className="title">Pop'n'Drop</span></section>
                 </div>
                 <div className="page" id="p3">
-                  <section className="icon fas fa-comments-dollar"><span className="title">Lavender</span></section>
+                  <section className="icon fas fa-graduation-cap"><span className="title">Lavender</span></section>
                 </div>
                 <div className="page" id="p4">
-                  <section className="icon fas fa-horse">
+                  <section className="icon fas fa-keyboard">
                     <span className="title">Llama Trader</span>
                     <p className="hint">
 

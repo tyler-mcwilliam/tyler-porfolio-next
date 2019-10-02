@@ -21,7 +21,7 @@ const Nav = () => (
     <div className="nav">
       <div className="nav__content">
         <ul className="nav__list">
-          <li className="nav__list-item active-nav"><a href="home" className="hover-target">home</a></li>
+          <li className="nav__list-item"><a href="index" className="hover-target">home</a></li>
           <li className="nav__list-item"><a href="projects" className="hover-target">projects</a></li>
           <li className="nav__list-item"><a href="experience" className="hover-target">experience</a></li>
           <li className="nav__list-item"><a href="education" className="hover-target">education</a></li>

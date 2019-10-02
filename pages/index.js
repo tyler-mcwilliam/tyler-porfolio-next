@@ -8,9 +8,9 @@ import Link from 'next/link'
 const Home = () => (
   <div id="full-page">
     <Head>
-      <title>Home</title>
-      <link rel='icon' href='/static/favicon.ico' importance='low' />
-       <link rel = "stylesheet" type = "text/css" href = "./static/style.css" />
+      <title>Tyler McWilliam :: Full Stack Developer</title>
+      <link rel='icon' href='/static/favicon_io/favicon.ico' importance='low' />
+      <link rel = "stylesheet" type = "text/css" href = "./static/style.css" />
       <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
     </Head>
 

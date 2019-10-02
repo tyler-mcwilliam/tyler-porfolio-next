@@ -41,12 +41,10 @@ const Experience = () => (
                   <div className="page-content">
                     <h1>Toho Technology <small><i>(2019)</i></small></h1>
                     <div className="page-body">
-                      <img className="page-image" src="../static/images/popndrop.png" />
                       <div className="page-links">
                         <a href="http://popndrop.herokuapp.com/"><i className="github-link fab fa-chrome"></i></a>
-                        <a href="https://github.com/toekneeyou/popndrop"><i className="github-link fab fa-github"></i></a>
                       </div>
-                      <p>Pop'N'Drop was a humorous extension of the AirBnB model. Rather than rent out apartments, we created a platform for short term rentals of toilets.</p>
+                      <p>Toho Technology.</p>
                     </div>
                   </div>
                 </div>
@@ -54,12 +52,10 @@ const Experience = () => (
                   <div className="page-content">
                     <h1>Boreas Technologies <small><i>(2019)</i></small></h1>
                     <div className="page-body">
-                      <img className="page-image" src="../static/images/lavender.png" />
                       <div className="page-links">
                         <a href="https://lvndr.herokuapp.com/"><i className="github-link fab fa-chrome"></i></a>
-                        <a href="https://github.com/tyler-mcwilliam/Lavender"><i className="github-link fab fa-github"></i></a>
                       </div>
-                      <p>Lavender is a community investment platform allowing form friends to come together and vote on which stocks to buy.</p>
+                      <p>Boreas Technologies.</p>
                     </div>
                   </div>
                 </div>
@@ -67,12 +63,10 @@ const Experience = () => (
                   <div className="page-content">
                     <h1>Day Trader <small><i>(2019)</i></small></h1>
                     <div className="page-body">
-                      <img className="page-image" src="../static/images/llama-trader.png" />
                       <div className="page-links">
                         <a href="llama-trader.herokuapp.com"><i className="github-link fab fa-chrome"></i></a>
-                        <a href="https://github.com/tyler-mcwilliam/alpaca-front-end-react"><i className="github-link fab fa-github"></i></a>
                       </div>
-                      <p>Llama Trader is a front end interface allowing users to quickly access their Alpaca trading account and make trades with the hassle of using an API.</p>
+                      <p>Day Trader.</p>
                     </div>
                   </div>
                 </div>

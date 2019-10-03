@@ -60,7 +60,7 @@ const Experience = () => (
                 <div className="page" id="p4">
                   <div className="page-content">
                     <h1>Day Trader</h1>
-                    <div className="page-body"> <p><strong>Dates:</strong> 2018-2019</p>
+                    <div className="page-body">
                       <p><strong>Dates:</strong> 2018-2019</p>
                       <p>Personal stock trading and investment. Transitioned from an entirely manual system to an automated system based on algorithmic trading strategies. System now operates in the cloud using Python code and the Alpaca API.</p>
                     </div>

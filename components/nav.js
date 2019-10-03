@@ -126,6 +126,8 @@ const Nav = () => (
       .nav {
         position: fixed;
         z-index: 98;
+        top: 0;
+        left: 0;
       }
       .nav:before, .nav:after {
         content: "";

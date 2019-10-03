@@ -64,7 +64,7 @@ const Education = () => (
                     <div className="page-body">
                       <img className="page-image-le-wagon" src="../static/images/le-wagon.png" />
                       <div className="page-links">
-                        <a href="https://lewagon.com"><i className="github-link fab fa-chrome"></i></a>
+                        <a href="https://www.lewagon.com"><i className="github-link fab fa-chrome"></i></a>
                       </div>
                       <p>I completed the Le Wagon full stack developer boot camp in Bali. This was a 9-week intensive course covering the intracacies of <abbr title="Object Oriented Programming">OOP</abbr>, databases, and <abbr title="Model-View-Controller">MVC</abbr> applications.</p>
                     </div>

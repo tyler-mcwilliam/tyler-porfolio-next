@@ -41,10 +41,8 @@ const Experience = () => (
                   <div className="page-content">
                     <h1>Toho Technology</h1>
                     <div className="page-body">
-                      <div className="page-links">
-                        <a href="http://popndrop.herokuapp.com/"><i className="github-link fab fa-chrome"></i></a>
-                      </div>
-                      <p>Toho Technology.</p>
+                      <p><strong>Dates:</strong> 2013-2018</p>
+                      <p>Worked with the engineering team in Japan for Product Development and Management. Responsible for consultative sales with key Semiconductor and Flat Panel Display clients representing $6M USD annual revenue. Clients included research, academic, and manufacturing sites at university labs and private facilities.</p>
                     </div>
                   </div>
                 </div>
@@ -52,10 +50,8 @@ const Experience = () => (
                   <div className="page-content">
                     <h1>Boreas Technologies</h1>
                     <div className="page-body">
-                      <div className="page-links">
-                        <a href="https://lvndr.herokuapp.com/"><i className="github-link fab fa-chrome"></i></a>
-                      </div>
-                      <p>Boreas Technologies.</p>
+                      <p><strong>Dates:</strong> 2017-2019</p>
+                      <p>Funding acquisition for a development-level start up focusing on advanced environmental control systems for specialized aircraft.</p>
                     </div>
                   </div>
                 </div>
@@ -63,10 +59,8 @@ const Experience = () => (
                   <div className="page-content">
                     <h1>Day Trader</h1>
                     <div className="page-body">
-                      <div className="page-links">
-                        <a href="llama-trader.herokuapp.com"><i className="github-link fab fa-chrome"></i></a>
-                      </div>
-                      <p>Day Trader.</p>
+                      <p><strong>Dates:</strong> 2018-2019</p>
+                      <p>Personal stock trading and investment. Transitioned from an entirely manual system to an automated system based on algorithmic trading strategies. System now operates in the cloud using Python code and the Alpaca API.</p>
                     </div>
                   </div>
                 </div>

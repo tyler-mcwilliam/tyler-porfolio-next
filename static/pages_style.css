@@ -612,6 +612,16 @@ a {
 
 .icon-top {
   font-size: 8em;
+  animation: point 2s infinite;
+}
+
+@keyframes point {
+  0%, 40%, 80% {
+    transform: translateX(0);
+  }
+  20%, 60% {
+    transform: translateX(-30px);
+  }
 }
 
 .page-content {

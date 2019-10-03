@@ -8,7 +8,7 @@ import Link from 'next/link'
 const Education = () => (
   <div>
     <Head>
-      <title>Home</title>
+      <title>Tyler McWilliam :: Full Stack Developer</title>
       <link rel='icon' href='/static/favicon_io/favicon.ico' importance='low' />
       <link rel = "stylesheet" type = "text/css" href = "./static/pages_style.css" />
       <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>

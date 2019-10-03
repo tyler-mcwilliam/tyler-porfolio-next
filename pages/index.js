@@ -11,6 +11,7 @@ const Home = () => (
       <title>Tyler McWilliam :: Full Stack Developer</title>
       <link rel='icon' href='/static/favicon_io/favicon.ico' importance='low' />
       <link rel = "stylesheet" type = "text/css" href = "./static/style.css" />
+      <meta property="og:image" content="../static/images/thumbnail.png" />
       <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
     </Head>
 

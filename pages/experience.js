@@ -32,14 +32,14 @@ const Experience = () => (
                   <div className="page-content-top">
                     <h1>Experience</h1>
                     <div className="page-body-top">
-                      <section className="icon fas fa-arrow-circle-left"></section>
                       <p>You can find a list of my work experience by using the icons on the right.</p>
+                      <i className="icon-top fas fa-arrow-circle-left"></i>
                     </div>
                   </div>
                 </div>
                 <div className="page" id="p2">
                   <div className="page-content">
-                    <h1>Toho Technology <small><i>(2019)</i></small></h1>
+                    <h1>Toho Technology</h1>
                     <div className="page-body">
                       <div className="page-links">
                         <a href="http://popndrop.herokuapp.com/"><i className="github-link fab fa-chrome"></i></a>
@@ -50,7 +50,7 @@ const Experience = () => (
                 </div>
                 <div className="page" id="p3">
                   <div className="page-content">
-                    <h1>Boreas Technologies <small><i>(2019)</i></small></h1>
+                    <h1>Boreas Technologies</h1>
                     <div className="page-body">
                       <div className="page-links">
                         <a href="https://lvndr.herokuapp.com/"><i className="github-link fab fa-chrome"></i></a>
@@ -61,7 +61,7 @@ const Experience = () => (
                 </div>
                 <div className="page" id="p4">
                   <div className="page-content">
-                    <h1>Day Trader <small><i>(2019)</i></small></h1>
+                    <h1>Day Trader</h1>
                     <div className="page-body">
                       <div className="page-links">
                         <a href="llama-trader.herokuapp.com"><i className="github-link fab fa-chrome"></i></a>

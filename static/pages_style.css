@@ -608,6 +608,10 @@ a {
   left: 0;
 }
 
+.icon-top {
+  font-size: 10em;
+}
+
 .page-content {
   position: absolute;
   right: 1%;
@@ -632,11 +636,10 @@ a {
   left: 0;
   height: 80%;
   width: 90%;
-  display: flex;
 }
 
 .page-body-top p {
-  padding: 5%;
+  padding: 2%;
 }
 
 .page-body {
@@ -650,6 +653,18 @@ a {
 
 .page-image {
   width: 40%;
+}
+
+.page-image-loyola {
+  width: 30%;
+}
+
+.page-image-texas {
+  width: 60%;
+}
+
+.page-image-le-wagon {
+  width: 50%;
 }
 
 .page-links {
@@ -996,4 +1011,17 @@ body.light .hidden-stack span {
   .page-image {
     width: 100%;
   }
+
+  .page-image-loyola {
+    width: 60%;
+  }
+
+  .page-image-le-wagon {
+    width: 70%;
+  }
+
+  .page-image-texas {
+    width: 90%;
+  }
 }
+

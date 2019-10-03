@@ -32,8 +32,8 @@ const Projects = () => (
                   <div className="page-content-top">
                     <h1>Projects</h1>
                     <div className="page-body-top">
-                      <section className="icon fas fa-arrow-circle-left"></section>
                       <p>You can find a list of my coding projects by using the icons on the right. Each demonstrates a different element of back end and front end coding work.</p>
+                      <i className="icon-top fas fa-arrow-circle-left"></i>
                     </div>
                   </div>
                 </div>

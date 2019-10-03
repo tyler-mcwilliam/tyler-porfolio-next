@@ -32,44 +32,41 @@ const Education = () => (
                   <div className="page-content-top">
                     <h1>Education</h1>
                     <div className="page-body-top">
-                      <section className="icon fas fa-arrow-circle-left"></section>
                       <p>You can learn about my education by using the icons on the right.</p>
+                      <i className="icon-top fas fa-arrow-circle-left"></i>
                     </div>
                   </div>
                 </div>
                 <div className="page" id="p2">
                   <div className="page-content">
-                    <h1>Loyola University Chicago</h1>
                     <div className="page-body">
-                      <img className="page-image" src="../static/images/loyola.png" />
+                      <img className="page-image-loyola" src="../static/images/loyola.png" />
                       <div className="page-links">
-                        <a href="http://popndrop.herokuapp.com/"><i className="github-link fab fa-chrome"></i></a>
+                        <a href="http://luc.edu/"><i className="github-link fab fa-chrome"></i></a>
                       </div>
-                      <p>Loyoal University Chicago.</p>
+                      <p>I completed my BS in Economics and my BA in International Studies at Loyola. I also studied abroad in France, China, and Oman.</p>
                     </div>
                   </div>
                 </div>
                 <div className="page" id="p3">
                   <div className="page-content">
-                    <h1>The University of Texas at Austin</h1>
                     <div className="page-body">
-                      <img className="page-image" src="../static/images/mccombs.png" />
+                      <img className="page-image-texas" src="../static/images/mccombs.png" />
                       <div className="page-links">
-                        <a href="https://lvndr.herokuapp.com/"><i className="github-link fab fa-chrome"></i></a>
+                        <a href="https://www.utexas.edu/"><i className="github-link fab fa-chrome"></i></a>
                       </div>
-                      <p>McCombs School of Business.</p>
+                      <p>I earned my <abbr title="Master of Science in Technology Commercialization">MSTC</abbr> degree at the McCombs School of Business at the University of Texas at Austin. This included an international component in Colombia!</p>
                     </div>
                   </div>
                 </div>
                 <div className="page" id="p4">
                   <div className="page-content">
-                    <h1>Le Wagon</h1>
                     <div className="page-body">
-                      <img className="page-image" src="../static/images/le-wagon.png" />
+                      <img className="page-image-le-wagon" src="../static/images/le-wagon.png" />
                       <div className="page-links">
-                        <a href="llama-trader.herokuapp.com"><i className="github-link fab fa-chrome"></i></a>
+                        <a href="https://lewagon.com"><i className="github-link fab fa-chrome"></i></a>
                       </div>
-                      <p>Le Wagon.</p>
+                      <p>I completed the Le Wagon full stack developer boot camp in Bali. This was a 9-week intensive course covering the intracacies of <abbr title="Object Oriented Programming">OOP</abbr>, databases, and <abbr title="Model-View-Controller">MVC</abbr> applications.</p>
                     </div>
                   </div>
                 </div>

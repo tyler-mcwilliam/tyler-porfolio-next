@@ -397,6 +397,11 @@ const Nav = () => (
         animation: bounce 2s infinite;
       }
 
+      @media screen and (max-width: 368px) {
+        .logo-wrap a {
+        font-size: .8em!important;
+        }
+      }
     `}</style>
   </nav>
 )

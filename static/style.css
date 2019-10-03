@@ -815,3 +815,27 @@ social-icons {
     text-align: center;
   }
 }
+
+@media screen and (max-width: 1024px) {
+  .console-container {
+    font-size: 1.2em;
+  }
+  .hidden-stack {
+    padding-left: 0;
+    text-align: center;
+  }
+}
+
+@media screen and (max-width: 368px) {
+  .logo-wrap a {
+    font-size: .8em!important;
+  }
+
+  .headline {
+    top: 20%;
+  }
+
+  .headline h1 {
+    font-size: 1.5em!important;
+  }
+}

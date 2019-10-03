@@ -18,6 +18,7 @@ const Home = () => (
 
     <div className="content">
       <div className="headline">
+        <code>// TODO: render amazing front ends</code>
         <h1><span><i className="fa fa-code"></i> FULL STACK DEVELOPER</span></h1>
         <div className="contact-btn-container">
           <a href="mailto:tylermcwilliam@gmail.com" className="contact-btn hover-target">Get in Touch</a>

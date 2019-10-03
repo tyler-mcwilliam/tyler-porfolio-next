@@ -60,7 +60,7 @@ const Projects = () => (
                         <a href="https://lvndr.herokuapp.com/"><i className="github-link fab fa-chrome"></i></a>
                         <a href="https://github.com/tyler-mcwilliam/Lavender"><i className="github-link fab fa-github"></i></a>
                       </div>
-                      <p>Lavender is a community investment platform allowing form friends to come together and vote on which stocks to buy.</p>
+                      <p>Lavender is a community investment platform allowing for friends to come together and vote on which stocks to buy.</p>
                       <p><i>Coded with <i className="fas fa-heart" /> in Ruby on Rails using IEX Cloud, Google Omni Authable, Alpaca Trade API, Sidekiq, and AM Charts integrations.</i></p>
                     </div>
                   </div>
@@ -74,7 +74,7 @@ const Projects = () => (
                         <a href="https://llama-trader.herokuapp.com"><i className="github-link fab fa-chrome"></i></a>
                         <a href="https://github.com/tyler-mcwilliam/alpaca-front-end-react"><i className="github-link fab fa-github"></i></a>
                       </div>
-                      <p>Llama Trader is a front end interface allowing users to quickly access their Alpaca trading account and make trades with the hassle of using an API.</p>
+                      <p>Llama Trader is a front end interface allowing users to quickly access their Alpaca trading account and make trades without the hassle of using an API.</p>
                       <p><i>Coded with <i className="fas fa-heart" /> completely in React-Redux.</i></p>
                     </div>
                   </div>

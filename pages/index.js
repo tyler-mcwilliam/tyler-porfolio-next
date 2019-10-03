@@ -32,6 +32,7 @@ const Home = () => (
           <div className='hidden-stack'><span>tyler-mcwilliam git:(master) ✗ Django</span></div>
           <div className='hidden-stack'><span>tyler-mcwilliam git:(master) ✗ Express</span></div>
         </div>
+        <code>// EDIT: done</code>
       </div>
     </div>
 

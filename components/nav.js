@@ -25,7 +25,8 @@ const Nav = () => (
           <li className="nav__list-item"><a href="projects" className="hover-target">projects</a></li>
           <li className="nav__list-item"><a href="experience" className="hover-target">experience</a></li>
           <li className="nav__list-item"><a href="education" className="hover-target">education</a></li>
-          <li className="nav__list-item"><a href="index" className="hover-target">contact</a></li>
+          <li className="nav__list-item"><a href="../static/resume/Tyler McWilliam Resume 10.2019.pdf" className="hover-target">Resume</a></li>
+          <li className="nav__list-item"><a href="mailto:tylermcwilliam@gmail.com" className="hover-target">contact</a></li>
         </ul>
       </div>
     </div>

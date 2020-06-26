@@ -10,7 +10,7 @@ const Footer = () => (
         </div>
       </div>
       <div className="social-icons hover-target">
-        <li><a href="mailto:tylermcwilliam@gmail.com" target="_blank" className="social-icon"> <i className="fas fa-envelope"></i></a></li>
+        <li><a href="mailto:tylermcwilliam@gmail.com?subject=Website Inquiry" target="_blank" className="social-icon"> <i className="fas fa-envelope"></i></a></li>
         <li><a href="https://medium.com/@tylermcwilliam" target="_blank" className="social-icon"> <i className="fab fa-medium-m"></i></a></li>
         <li><a href="https://angel.co/tyler-mcwilliam" target="_blank" className="social-icon"> <i className="fab fa-angellist"></i></a></li>
         <li><a href="https://www.linkedin.com/in/thetylermcwilliam/" target="_blank" className="social-icon"> <i className="fab fa-linkedin"></i></a></li>

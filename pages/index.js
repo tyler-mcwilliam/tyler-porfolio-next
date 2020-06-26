@@ -25,7 +25,7 @@ const Home = () => (
         <code>// TODO: render amazing front ends</code>
         <h1><span><i className="fa fa-code"></i> FULL STACK DEVELOPER</span></h1>
         <div className="contact-btn-container">
-          <a href="mailto:tylermcwilliam@gmail.com?subject=Website Inquiry" className="contact-btn hover-target">Get in Touch</a>
+          <a href="mailto:info@tylermcwilliam.com?subject=Website Inquiry" className="contact-btn hover-target">Get in Touch</a>
         </div>
         <div className='console-container'>
           <span>tyler-mcwilliam git:(master) ✗ </span>
